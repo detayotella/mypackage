@@ -9,7 +9,7 @@ setup(
     description="ESDA example python package",
     long_description=open("README.md").read(),
     install_requires=["numpy"],
-    url="https:github.com/detayotella/mypackage",
+    url="https:github.com/detayotella/mypackage.git",
     author="Adetayo Tella",
     author_email="tellaadetayo7@yahoo.com"
 )
